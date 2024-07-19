@@ -1,4 +1,4 @@
-<img width="1130" alt="スクリーンショット 2024-07-19 10 13 23" src="https://github.com/user-attachments/assets/d281de65-ff30-421f-bf8a-c0b5791739ec">
+<img width="1082" alt="カード" src="https://github.com/user-attachments/assets/46d4cb71-da0f-4d0f-b303-395af7721a7d">
 
 # 複合モジュール --- カード
 
